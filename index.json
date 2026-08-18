@@ -5,13 +5,15 @@
       "id": "raang",
       "title": "Raang",
       "type": "full",
-      "url": "Raang/full.json"
+      "thumbnail": "https://i.ibb.co/KxbDWLXM/file-0000000064b881f490769889fee5fd59.png",
+      "url": "Raang/fullepisose.json"
     },
     {
       "id": "naruto",
       "title": "Naruto Shippuden",
-      "type": "chapters",
-      "url": "Naruto/chapter-1.json"
+      "type": "full",
+      "thumbnail": "https://your-naruto-cover-image-url.png",
+      "url": "Naruto/fullepisode.json"
     }
   ]
 }
