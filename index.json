@@ -1,0 +1,17 @@
+{
+  "updated": "2026-08-18",
+  "series": [
+    {
+      "id": "raang",
+      "title": "Raang",
+      "type": "full",
+      "url": "Raang/full.json"
+    },
+    {
+      "id": "naruto",
+      "title": "Naruto Shippuden",
+      "type": "chapters",
+      "url": "Naruto/chapter-1.json"
+    }
+  ]
+}
