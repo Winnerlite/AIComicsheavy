@@ -16,6 +16,14 @@
       "thumbnail": "https://your-naruto-cover-image-url.png",
       "url": "Naruto/fullepisode.json",
       "genre": "comedy"
+    },
+    {
+      "id": "sleepy hollow",
+      "title": "Naruto Shippuden",
+      "type": "full",
+      "thumbnail": "https://your-naruto-cover-image-url.png",
+      "url": "Naruto/fullepisode.json",
+      "genre": "horror"
     }
   ]
 }
